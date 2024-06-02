@@ -1,0 +1,2 @@
+ini adalah file trash kedua dan ini berada di line pertama
+kemudian ini adalah line kedua
