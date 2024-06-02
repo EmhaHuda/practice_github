@@ -1,0 +1,3 @@
+nama : Thomas
+umur : 20 tahun
+pekerjaan : Software Engineer
