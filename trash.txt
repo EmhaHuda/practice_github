@@ -1,10 +1,2 @@
 ini line pertama pada file trash.txt
 dan ini adalah line kedua
-lalu ini adalah line ketiga
-kemudian line keempat
-dan ini adalah line kelima
-line selanjutnya adalah line keenam
-line berikutnya adalah line ketujuh
-dilanjutkan ke line delapan
-lalu ke line kesembilan
-dan terakhir adalah line kesepuluh
