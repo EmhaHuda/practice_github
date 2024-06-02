@@ -1,3 +1,5 @@
-nama : Thomas
-umur : 20 tahun
-pekerjaan : Software Engineer
+Nama : Thomas
+Umur : 20 tahun
+Pekerjaan : Software Engineer
+Hobi : Sepakbola, futsal, musik
+Musik Favorite : Oasis
