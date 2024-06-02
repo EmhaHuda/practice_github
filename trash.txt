@@ -1,0 +1,2 @@
+ini line pertama pada file trash.txt
+dan ini adalah line kedua
